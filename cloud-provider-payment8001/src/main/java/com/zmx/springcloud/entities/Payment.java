@@ -10,6 +10,9 @@ import java.io.Serializable;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+/***
+ * 加个注释111
+ */
 public class Payment implements Serializable {
     private Long id;
     private String  serial;
