@@ -56,7 +56,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
-
+            <!--mysql测-->
             <!--mysql-->
             <dependency>
                 <groupId>mysql</groupId>
