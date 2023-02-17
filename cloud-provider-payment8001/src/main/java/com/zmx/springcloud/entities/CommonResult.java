@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+//ZMX2Commit
 public class CommonResult<T> {
     private Integer code;
     private String msg;
